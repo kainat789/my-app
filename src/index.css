@@ -1,0 +1,15 @@
+.red mode{
+    background-color: red;
+    color: white;
+}
+.blue mode{
+    background-color: blue;
+    color: white;
+}
+.green mode{
+    background-color: green;
+    color: white;
+}
+.content {
+    padding: 20px;
+}

@@ -1,0 +1,25 @@
+body.dark-mode{
+    background-color: black;
+    color: white;
+}
+body.light-mode{
+    background-color: white;
+    color: black;
+}
+
+
+.red mode{
+    background-color: red;
+    color: white;
+}
+.blue mode{
+    background-color: blue;
+    color: white;
+}
+.green mode{
+    background-color: green;
+    color: white;
+}
+.content {
+    padding: 20px;
+}
